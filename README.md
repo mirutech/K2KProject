@@ -1,6 +1,6 @@
-# Chi-RW-C
+# C4.5-C
 
-This node processes datasets with the Fuzzy Rule Learning Model by the Chi et al. approach with rule weights Classification Algorithm.
+This node processes datasets with the C4.5 Classification Algorithm.
 It requires two datasets in input (train set and test set), learns from train set and applies the algorithm both to train set and test set.
 
 ## Getting Started

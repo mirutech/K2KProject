@@ -1,16 +1,16 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Chi-RW-C
-Bundle-SymbolicName: org.mirkorusso.K2KChiRWC; singleton:=true
+Bundle-Name: C45
+Bundle-SymbolicName: org.mirkorusso.K2KC45;singleton:=true
 Bundle-Version: 1.0.0
-Bundle-ClassPath: k2kchirwc.jar,
- KEEL/Chi_RW.jar
-Bundle-Activator: org.mirkorusso.K2KChiRWC.K2KChiRWCNodePlugin
+Bundle-ClassPath: K2KC45.jar,
+ KEEL/C45.jar
+Bundle-Activator: org.mirkorusso.K2KC45.K2KC45NodePlugin
 Bundle-Vendor: Mirko Russo
 Require-Bundle: org.eclipse.core.runtime,
  org.knime.workbench.core,
  org.knime.workbench.repository,
  org.knime.base
 Bundle-ActivationPolicy: lazy
-Export-Package: org.mirkorusso.K2KChiRWC
+Export-Package: org.mirkorusso.K2KC45
 

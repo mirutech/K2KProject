@@ -8,8 +8,8 @@
       <category
             description="Category containing my nodes"
             icon="icons/default.png"
-            level-id="myNodes"
-            name="My nodes"
+            level-id="K2KCSVMCSI"
+            name="K2KCSVMCSI"
             path="/"/>
    </extension>
    -->
@@ -18,14 +18,14 @@
          point="org.knime.workbench.repository.nodes">
       <node
             category-path="/KEEL/"
-            factory-class="org.mirkorusso.K2KChiRWC.K2KChiRWCNodeFactory"
-            id="org.mirkorusso.K2KChiRWC.K2KChiRWCNodeFactory"/>
+            factory-class="org.mirkorusso.K2KC45.K2KC45NodeFactory"
+            id="org.mirkorusso.K2KC45.K2KC45NodeFactory"/>
    </extension>
    <extension
          point="org.knime.workbench.repository.categories">
       <category
             description="Repository that contains KEEL Algorithms"
-            icon="src/org/mirkorusso/K2KChiRWC/default.png"
+            icon="src/org/mirkorusso/K2KC45/default.png"
             level-id="KEEL"
             locked="true"
             name="KEEL"
